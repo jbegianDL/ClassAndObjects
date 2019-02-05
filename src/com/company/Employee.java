@@ -1,4 +1,5 @@
 package com.company;
+import java.util.Scanner;
 
 public class Employee {
     private String idNumber;
@@ -17,6 +18,16 @@ public class Employee {
     public double anualPay(){
         anualPay = (40 * hourlyPay) * 52;
         return anualPay;
+    }
+
+    public void increaseSalary(){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter a percent: ");
+        double usrInput = input.nextDouble();
+        double percent = usrInput * 0.01;
+        anualPay = anualPay + (anualPay * percent);
+        System.out.println(percent);
+        System.out.println(anualPay);
     }
 
     public String getIdNumber() {

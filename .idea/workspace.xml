@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a86a3600-69c6-4699-9509-a5d3785bb230" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,29 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1200#1201#0" expanded="true" />
+                <element signature="e#1266#1267#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1514#1515#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +57,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -80,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549406460572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549408656102" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,6 +105,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -116,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549405940160</updated>
-      <workItem from="1549405943397" duration="841000" />
+      <workItem from="1549405943397" duration="2335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="841000" />
+    <option name="totallyTimeSpent" value="2335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -161,27 +166,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="420">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
